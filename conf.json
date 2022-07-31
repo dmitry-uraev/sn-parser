@@ -1,0 +1,8 @@
+{
+  "num_pages": 20,
+  "links": "https://www.douban.com/group/explore?start=30",
+  "base_url": "https://www.douban.com/group/explore",
+  "stash": [
+    "https://www.douban.com/group/explore"
+  ]
+}
